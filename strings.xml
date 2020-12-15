@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWallSt_Assignment</string>
+    <string name="year_format">yyyy</string>
+    <string name="full_date_format">MMM-dd-yyyy</string>
+    <string name="format_of_response_year">yyyy-MM-dd\'T\'HH:mm:ss</string>
+    <string name="statement_text">Location of Meteors fallen in and after the 20th Century! \n(1900s - present)</string>
+
+</resources>
