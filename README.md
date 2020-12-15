@@ -40,5 +40,15 @@ An app to display fallen meteors on Earth using datapoints available from Nasa.
 5. Google Maps - com.google.android.gms:play-services-maps:17.0.0
 6. Unit Tests - junit:junit:4.12, com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0, com.nhaarman:mockito-kotlin-kt1.1:1.5.0
 
+### How to run code?
+1. Create your own project in Kotlin.
+2. Copy all .kt files in app/src/main/Java/your_package_name/main
+3. Use you own build.gradle and copy contents from here.
+4. Use your own Manifest.xml and copy contents from here.
+5. Copy strings.xml, colors.xml and styles.xml in values package of your project.
+6. Add .PNG image background file
+7. Copy all layout XML files under app/src/main/res/layouts
+8. Copy ResponseUnitTest.kt under app/src/main/tests/java
+
 *I have also made a Trello Board for task management. Please feel free to check this out!*
  - https://trello.com/b/4eXepHS6/mywallstinterview
